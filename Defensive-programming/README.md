@@ -1,6 +1,5 @@
 # Latihan Defensive Programming (Pemrograman Defensif)
 
-## Gambaran Umum
 Pemrograman defensif adalah tentang berasumsi bahwa semua argumen yang diterima sebuah fungsi memiliki tipe yang salah, nilai yang salah, atau keduanya.
 
 Dengan kata lain, kamu berasumsi bahwa sesuatu akan berjalan tidak sesuai rencana dan kamu bersikap proaktif dalam memikirkan skenario tersebut sebelum terjadi, sehingga fungsi yang kamu buat tidak mudah menyebabkan error karena masukan yang salah.
@@ -12,26 +11,20 @@ Untuk latihan ini, kedua argumen yang diberikan ke fungsi harus memenuhi kriteri
 - Panjang parameter `match` harus 1.
 - Tipe dari kedua parameter `word` dan `match` harus berupa string.
 
-## Kode yang Sudah Diubah
+## Kode yang akan di refactor
 
 ```javascript
 function letterFinder(word, match) {
-    var condition1 = typeof(word) == 'string' && word.length >= 2;
-    var condition2 = typeof(match) == 'string' && match.length == 1;
-    
-    if (condition1 && condition2) {
-        for(var i = 0; i < word.length; i++) {
-            if(word[i] == match) {
-                //jika karakter di posisi i pada word sama dengan match
-                console.log('Found the', match, 'at', i)
-            } else {
-                console.log('---No match found at', i)
-            }
+    for(var i = 0; i < word.length; i++) {
+        if(word[i] == match) {
+            //if the current character at position i in the word is equal to the match
+            console.log('Found the', match, 'at', i)
+        } else {
+            console.log('---No match found at', i)
         }
-    } else {
-        console.log("Please pass correct arguments to the function.");
     }
 }
+
 ```
 
 ## Pengujian
