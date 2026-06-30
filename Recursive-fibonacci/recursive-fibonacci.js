@@ -1,0 +1,7 @@
+function fib(n) {
+    // Step 1: Define the base case(s) here.
+    // Hint: What is the value of Fibonacci(0) and Fibonacci(1)?
+    
+    // Step 2: Define the recursive case here.
+    // Hint: Return the sum of Fibonacci(n-1) and Fibonacci(n-2).
+}
