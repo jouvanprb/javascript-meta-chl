@@ -1,4 +1,4 @@
-# Javascript by Meta 
+# Javascript Challenge 
 
 Repositori ini merupakan arsip saya dari solusi latihan JavaScript Meta.
 
@@ -16,6 +16,8 @@ _Ngaur cikk_
 7. [Create array and object](https://github.com/jouvanprb/javascript-meta-chl/tree/main/Creating-arrays-and-objects)
 8. [Error Prevention](https://github.com/jouvanprb/javascript-meta-chl/tree/main/Error-prevention)
 9. [Defensive Programming](https://github.com/jouvanprb/javascript-meta-chl/tree/main/Defensive-programming)
+10. [Recursive Fibonacci](https://github.com/jouvanprb/javascript-meta-chl/tree/main/Recursive-fibonacci)
+11. [Functional Programming](https://github.com/jouvanprb/javascript-meta-chl/tree/main/functional-programming.js)
 
 ## Tugas
 - [Javascript data summaries](https://github.com/jouvanprb/javascript-meta-chl/tree/main/Assignment-JavaScript-data-summaries)
