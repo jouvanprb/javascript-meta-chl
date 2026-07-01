@@ -1,12 +1,13 @@
 # Javascript Challenge 
+**[Shields.io](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)**
 
 Repositori ini merupakan arsip saya dari solusi latihan JavaScript Meta.
 
-![doksli peminat no 1](img/peminat-no1-js.png)
+<img src="img/peminat-no1-js.png" alt="doksli peminat no 1" width="400">
 
 _Ngaur cikk_
 
-## Daftar Latihan
+## List of challenge
 1. [Declaring Variables](https://github.com/jouvanprb/javascript-meta-chl/tree/main/Declaring-variables)
 2. [Advanced use of operators](https://github.com/jouvanprb/javascript-meta-chl/tree/main/Advanced-use-of-operators)
 3. [Practice conditional statements](https://github.com/jouvanprb/javascript-meta-chl/tree/main/Practice-conditional-statements)
