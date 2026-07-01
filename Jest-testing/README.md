@@ -121,7 +121,7 @@ Penjelasan :
 Saat menjalankan npm test, kita akan melihat output seperti ini:
 
 ### Output terminal untuk test yang berhasil dijalankan
-![Jest Terminal Output](/meta-excercise/img/jestTerminal.avif)
+![Jest Terminal Output](/img/jestTerminal.avif)
 
 Penjelasan :
 
@@ -145,6 +145,6 @@ Jalankan pada terminal command tersebut dan akan muncul output `Opening in exist
 
 Unit Test pada browser akan tampak seperti gambar berikut:
 
-![Jest Browser](/meta-excercise/img/jestBrowser.avif)
+![Jest Browser](/img/jestBrowser.avif)
 
 
