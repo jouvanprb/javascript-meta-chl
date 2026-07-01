@@ -1,7 +1,9 @@
-# Javascript Challenge 
-**[Shields.io](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)**
+# JavaScript - Challenge
 
 Repositori ini merupakan arsip saya dari solusi latihan JavaScript Meta.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 
 <img src="img/peminat-no1-js.png" alt="doksli peminat no 1" width="400">
 
@@ -20,5 +22,5 @@ _Ngaur cikk_
 10. [Recursive Fibonacci](https://github.com/jouvanprb/javascript-meta-chl/tree/main/Recursive-fibonacci)
 11. [Functional Programming](https://github.com/jouvanprb/javascript-meta-chl/tree/main/functional-programming.js)
 
-## Tugas
+## Assignment
 - [Javascript data summaries](https://github.com/jouvanprb/javascript-meta-chl/tree/main/Assignment-JavaScript-data-summaries)
