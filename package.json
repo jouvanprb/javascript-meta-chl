@@ -1,0 +1,15 @@
+{
+  "name": "meta-excercise",
+  "version": "1.0.0",
+  "description": "Repositori ini merupakan arsip saya dari solusi latihan JavaScript Meta.",
+  "main": "functional-programming.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
