@@ -24,3 +24,5 @@ _Ngaur cikk_
 
 ## Assignment
 - [Javascript data summaries](https://github.com/jouvanprb/javascript-meta-chl/tree/main/Assignment-JavaScript-data-summaries)
+- [Unit Test Framework with Jest](https://github.com/jouvanprb/javascript-meta-chl/tree/main/Jest-testing)
+
